@@ -1,0 +1,29 @@
+body{
+    background-color: #3e503c;
+} 
+#tituloIF{
+    color: #2f9e40;
+}
+#titulo{
+    font-size: 275%;
+   margin: 20px;
+    text-align: center;
+    color: white;
+}
+#botaoCardapio, #botaologin{
+    background-color: #2f9e40;
+    font-size: x-large;
+    text-decoration: none;
+    color: black;
+}
+#botaologin{
+    font-size: larger;
+}
+#botaoCardapio:hover, #botaologin:hover{
+    background-color: #2f9e40de;
+}
+.botoes{
+    margin-top: 3%;
+    
+}
+
